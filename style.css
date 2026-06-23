@@ -14,3 +14,11 @@
         #JavaScript{
             color: chocolate;
         }
+
+        #curtidas{
+            background-color: blueviolet;  /* cor de fundo */
+            color: brown;  /* cor da letra */
+            padding: 5px 10px 5px 10px ;  /* espaço interno */
+            border: 2px solid palevioletred; /* borda*/
+            border-radius: 12px;             /* borda arredondada */
+        }
